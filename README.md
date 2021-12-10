@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreehgoncalves&label=Profile%20views&color=0e75b6&style=flat" alt="dreehgoncalves" /> </p>
 
-- 🔭 I’m currently working on [app-veiculo](https://github.com/dreehgoncalves/app)
-
+- 🔭 I’m currently working on [app-veiculo](https://github.com/dreehgoncalves/app), [appVeiculo](https://github.com/giovanasilveiraa/appVeiculo), [prjDoar
+](https://github.com/giovanasilveiraa/prjDoar)
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dreehgoncalves](https://github.com/dreehgoncalves)
