@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [app-veiculo](https://github.com/dreehgoncalves/app), [appVeiculo](https://github.com/giovanasilveiraa/appVeiculo), [prjDoar
 ](https://github.com/giovanasilveiraa/prjDoar)
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Laravel and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dreehgoncalves](https://github.com/dreehgoncalves)
 
